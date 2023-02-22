@@ -17,7 +17,7 @@ Before running this program, make sure that you have the following installed:
 
 ## Running the program
 
-To run the program, simply execute the main.py script with Python. This will create the necessary tables in the MySQL database and add some example data.
+To run the program, simply execute the main.py script with Python. This will create the necessary tables in the MySQL database and add some example data. You will need to make sure the database exist and that you have the correct credentials in the main.py file.
 
 ```python
 python3 main.py
