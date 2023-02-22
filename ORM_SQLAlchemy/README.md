@@ -6,13 +6,13 @@ This is a simple example of using SQLAlchemy to define a one-to-many relationshi
 
 Before running this program, make sure that you have the following installed:
 
-Python 3
-Python3-dev
-Libmysqlclient
-Zlib1g-dev
-SQLAlchemy
-MySQL (or another database supported by SQLAlchemy)
-MySQLdb
+* Python 3
+* Python3-dev
+* Libmysqlclient
+* Zlib1g-dev
+* SQLAlchemy
+* MySQL (or another database supported by SQLAlchemy)
+* MySQLdb
 
 
 ## Running the program
